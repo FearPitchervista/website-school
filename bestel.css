@@ -356,4 +356,18 @@
     font-size: 20px;
     display: block;
     margin: 0 auto;
+    transition: 0.2 all;
+}
+.item button:hover{
+    transform: scale(1.08);
+}
+@media screen and (max-width: 1000px){
+    .item{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (max-width: 768px){
+    .item{
+        grid-template-columns: repeat(1, 1fr);
+    }
 }
