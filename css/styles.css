@@ -29,7 +29,7 @@
 }
 
 #navbar__logo{
-    background-color: #f77062;
+    background-color: #ff1900;
     background-image: linear-gradient(to top, #000000d0 0%, #ffffff
     100%);
     background-size: 100%;
@@ -89,7 +89,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #f77062;
+    background: #ff1900;
     color: #fff;
 }
 .button:hover {
@@ -98,7 +98,7 @@
 }
 
 .navbar__links:hover{
-    color: #f77062;
+    color: #ff1900;
     transition: all 0.3s ease;
 }
 
@@ -238,7 +238,7 @@ background-clip: text;
 
 .main__btn {
     font-size: 1rem;
-    background-image: linear-gradient(to top, #f77062 0%, #f77062 100%);
+    background-image: linear-gradient(to top, #ff1900 0%, #ff1900 100%);
     padding: 14px 32px;
     border: none;
     border-radius: 4px;
@@ -369,9 +369,9 @@ background-clip: text;
     #ff8177 0%,
     #ff867a 0%,
     #ff8c7f 21%,
-    #f99185 52%,
-    #cf556c 78%,
-    #b12a5b 100%
+    #f77272 52%,
+    #cf5555 78%,
+    #ff0000 100%
     );
     background-size: 100%;
     margin-bottom: 5rem;
@@ -431,7 +431,7 @@ background-clip: text;
     outline: none;
     border: none;
     border-radius: 4px;
-    background: #f77062;
+    background: #ff1900;
     position: absolute;
     top: 440px;
     left: 30px;
