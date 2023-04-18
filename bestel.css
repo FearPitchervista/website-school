@@ -375,10 +375,6 @@
     .items{
         grid-template-columns: repeat(1, 1fr);
     }
-    .item img{
-        max-width: 100%;
-        height: 100%;
-    }
 }
 
 .items h5{
