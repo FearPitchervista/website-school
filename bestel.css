@@ -316,7 +316,7 @@
     }
 }
 
-@media dcreen and (max-width: 480px){
+@media screen and (max-width: 480px){
     .footer__link--items{
         margin: 0;
         padding: 10px;
@@ -366,16 +366,16 @@
         grid-template-columns: repeat(3, 1fr);  
     }
 }
-@media screen and (max-width: 768px){
+/*@media screen and (max-width: 768px){
     .item{
         grid-template-columns: repeat(2, 1fr);
     }
 }
-@media screen and (max-width:540px){
+/*@media screen and (max-width:540px){
     .item{
         grid-template-columns: repeat(1, 1fr);
     }
-}
+}*/
 
 .item h5{
     padding: 5px;
