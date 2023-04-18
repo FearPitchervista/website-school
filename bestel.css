@@ -362,7 +362,7 @@
     transform: scale(1.08);
 }
 @media screen and (max-width: 1000px){
-    .item{
+    .items{
         grid-template-columns: repeat(3, 1fr);  
     }
 }
